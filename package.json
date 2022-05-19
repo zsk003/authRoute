@@ -1,0 +1,41 @@
+{
+  "name": "demo-basic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.15.6",
+    "jquery": "^3.6.0",
+    "lib-flexible": "^0.3.2",
+    "maptalks": "^0.49.5",
+    "maptalks.three": "^0.23.0",
+    "postcss-px2rem": "^0.3.0",
+    "three": "^0.138.3",
+    "three-obj-mtl-loader": "^1.0.3",
+    "vue": "^2.6.11",
+    "vue-bus": "^1.2.1",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11",
+    "@vue/cli-plugin-typescript": "~4.5.15",
+    "typescript": "~4.1.5"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
